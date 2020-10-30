@@ -1,0 +1,13 @@
+F:\C#\goBackN\obj\Debug\netcoreapp3.1\goBackN.csprojAssemblyReference.cache
+F:\C#\goBackN\obj\Debug\netcoreapp3.1\goBackN.AssemblyInfoInputs.cache
+F:\C#\goBackN\obj\Debug\netcoreapp3.1\goBackN.AssemblyInfo.cs
+F:\C#\goBackN\obj\Debug\netcoreapp3.1\goBackN.csproj.CoreCompileInputs.cache
+F:\C#\goBackN\bin\Debug\netcoreapp3.1\goBackN.exe
+F:\C#\goBackN\bin\Debug\netcoreapp3.1\goBackN.deps.json
+F:\C#\goBackN\bin\Debug\netcoreapp3.1\goBackN.runtimeconfig.json
+F:\C#\goBackN\bin\Debug\netcoreapp3.1\goBackN.runtimeconfig.dev.json
+F:\C#\goBackN\bin\Debug\netcoreapp3.1\goBackN.dll
+F:\C#\goBackN\bin\Debug\netcoreapp3.1\goBackN.pdb
+F:\C#\goBackN\obj\Debug\netcoreapp3.1\goBackN.dll
+F:\C#\goBackN\obj\Debug\netcoreapp3.1\goBackN.pdb
+F:\C#\goBackN\obj\Debug\netcoreapp3.1\goBackN.genruntimeconfig.cache
